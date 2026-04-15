@@ -7,7 +7,7 @@
     "build": "parcel build main.js"
   },
   "dependencies": {
-    "@cloudflare/wrangler": "^1.4.0",
+    "@cloudflare/wrangler": "^1.21.0",
     "slack": "^11.0.2",
     "uuid": "^3.3.3"
   },
